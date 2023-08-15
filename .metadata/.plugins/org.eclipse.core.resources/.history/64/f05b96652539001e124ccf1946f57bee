@@ -1,0 +1,13 @@
+package fundamentos;
+
+public class TipoPrimitivos {
+	public static void main(String[] args) {
+		// Informção do funcionario
+		
+		//Tipo numérico interios
+		byte anosDeEmpresa = 23;
+		short numeroDeVoos = 542;
+		int id = 56789;
+	}
+
+}
