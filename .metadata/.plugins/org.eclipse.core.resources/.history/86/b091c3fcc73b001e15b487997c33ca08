@@ -26,13 +26,8 @@ public class TipoString {
 		                 + "\nSalario: "+ salario);
 		System.out.printf("Nome: %s %s tem %s e ganha R$ %.2f. ", nome, sobrenome, idade, salario);
 		
-		String frase = String.format("\nNome: %s %s tem %s e ganha R$ %.2f. ", nome, sobrenome, idade, salario);
+		String frase = String.format("Nome: %s %s tem %s e ganha R$ %.2f. ", nome, sobrenome, idade, salario);
 		System.out.println(frase);
-		
-		System.out.println("Frase Qualquer".contains("qual"));
-		System.out.println("Frase qualquer".indexOf("qual"));
-		System.out.println("Frase qualquer".substring(6));
-		System.out.println("Frase qualquer".substring(6, 8));
 	}
 
 }
