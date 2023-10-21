@@ -21,6 +21,7 @@ public class IfElse {
 			System.out.println("Número par!");
 		} else {
 			
+			
 		}
 				
 	}
